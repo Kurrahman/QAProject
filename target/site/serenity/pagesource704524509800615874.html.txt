@@ -1,0 +1,67 @@
+<html><head><link rel="shortcut icon" type="image/png" href="https://www.static-src.com/siva/coreasset/12_2017//1512717642356//favicon.ico"><title>Jual Pulsa Online, Paket Data Internet &amp; Token Listrik PLN | Blibli.com</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ga/inpage_linkid.js" id="undefined"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var userIdParam;
+    var sessionId;
+
+    function getCookie(cname) {
+      var name = cname + "=";
+      var ca = document.cookie.split(';');
+      for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+      }
+      return "";
+    }
+
+    var deferscriptlist = [];
+
+    (function (w, d, s) {
+      function go() {
+        for (i in deferscriptlist) {
+          deferscriptlist[i]()
+        }
+      }
+
+      if (w.addEventListener) {
+        w.addEventListener("load", go, false);
+      }
+      else if (w.attachEvent) {
+        w.attachEvent("onload", go);
+      }
+    }(window, document, 'script'));
+
+    function loaderScript(src) {
+      var scripts = document.createElement('script');
+      scripts.language = 'javascript';
+      scripts.src = src;
+      document.getElementById('latescript').appendChild(scripts);
+      return scripts;
+    }
+    var _bwaq = _bwaq || [];</script><meta name="robots" content="index, follow"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=no"><link rel="manifest" href="/manifest.json"><meta property="og:url" content="https://www.blibli.com"><meta property="og:title" content="Toko online blibli.com, sensasi belanja online shop ala mall"><meta property="og:type" content="website"><meta property="og:image" content="/images/logo-blibli.png"><meta property="og:site_name" content="Blibli.com"><meta name="apple-itunes-app" content="app-id=1034231507"><script>deferscriptlist.push(function(){ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+          {'gtm.start': new Date().getTime(),event:'gtm.js'}
+  );var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TKQZL95'); })</script><script>//normal google analytics
+    var _gaq = _gaq || [];
+    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+    _gaq.push(['_setAccount', 'UA-21718848-1']);
+    _gaq.push(['_setDomainName', 'blibli.com']);
+    _gaq.push(['_trackPageview']);
+    (function()
+    {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    }
+    )();</script><link href="https://www.static-src.com/frontend/digital-product/static/css/app.bc9d3a2be8acb62a648131e1c2cffa35.css" rel="stylesheet"><script>function attachPublicPath(type) {
+      window['_' + type + '_staticPublicPath'] = function () {
+        return 'https://www.static-src.com/frontend/digital-product/' + (type && type !== '' && type !== 'main' ? type + '/' : '')
+      }
+    }
+    attachPublicPath('main')
+    window._env_prefix = ''
+    window._static_image_path = 'https://www.static-src.com/frontend/digital-product/'</script><script>bazadebezolkohpepadr="947547534"</script><script type="text/javascript" src="https://www.blibli.com/akam/11/387a6dac" defer=""></script></head><body><noscript>Please use the latest browser and enable javascript.</noscript><div id="latescript"><div id="trackers"></div></div><app></app><script type="text/javascript" src="https://www.static-src.com/frontend/digital-product/static/js/manifest.937d4486cc498aec567a.js"></script></body></html>
